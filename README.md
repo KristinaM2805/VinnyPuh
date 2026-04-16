@@ -1,4 +1,4 @@
-# Site-for-truckers
+# Site for cake shop
 
 An online cake shop and ordering system for a pastry shop "Sweet Cakes". This project was developed as part of a university software testing course. It allows customers to customize cakes (classic, bento, cupcakes, multi-tiered, mousse), add them to a cart, and place an order.
 
