@@ -34,13 +34,13 @@ Many pastry shops lack a convenient online ordering system with customization op
 ## Screenshots
 
 ### Main catalog page
-![Main catalog page](images/main_page.png)
+![Main catalog page](main_page.png)
 
 ### Order customization page
-![Order customization page](images/choose_dessert_page.png)
+![Order customization page](choose_dessert_page.png)
 
 ### Admin panel – orders list
-![Admin panel](images/admin_panel.png)
+![Admin panel](admin_panel.png)
 
 ### Requirements
 
