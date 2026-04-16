@@ -1,0 +1,48 @@
+# Site-for-truckers
+
+An online cake shop and ordering system for a pastry shop "Sweet Cakes". This project was developed as part of a university software testing course. It allows customers to customize cakes (classic, bento, cupcakes, multi-tiered, mousse), add them to a cart, and place an order.
+
+The Russian version is available here.
+
+## Description
+
+Many pastry shops lack a convenient online ordering system with customization options, leading to phone tag and order errors. This website solves the problem by providing a clear catalog, flexible cake customization (weight, flavor, candles, multi-tier options), a persistent shopping cart, and an order management panel for administrators. Managers receive structured order data, reducing errors and speeding up fulfillment.
+
+## Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript (vanilla)
+- **Backend:** PHP (native)
+- **Databases:** MySQL (orders, cooperation requests)
+- **Storage:** `localStorage` for cart persistence, session-based authentication
+- **Infrastructure:** Local server (MAMP/XAMPP) for development
+
+## Features
+
+- **Catalog & Customization:** Five cake categories with dynamic parameter selection (weight, flavor, candles).
+- **Multi-tier Cake Logic:** Dynamic form validation for selecting a unique flavor for each tier.
+- **Shopping Cart:** Add multiple items, change quantity, remove items, persistent storage (`localStorage`).
+- **Order Form:** Customer info, delivery/pickup choice, address field toggle, basic validation (to be improved).
+- **Admin Panel:**
+    - View all orders with customer and delivery details.
+    - Change order status (new, confirmed, in progress, completed, cancelled).
+    - Search orders by ID/name/phone/email yet).
+    - View order details as JSON.
+    - Export cooperation requests to CSV (planned).
+- **Design Reference Upload:** Customers can upload a design image (limitation: stored locally, not sent to server).
+- **Responsive Design:** Partially implemented (mobile view has known issues).
+
+## Screenshots
+
+_Main catalog page (placeholder)_
+
+_Order customization page (placeholder)_
+
+_Admin panel – orders list (placeholder)_
+
+## Installation & Usage
+
+### Requirements
+
+- Windows / macOS / Linux with a local server environment (MAMP, XAMPP, or Docker).
+- PHP 7.4+ and MySQL 5.7+.
+- Git.
