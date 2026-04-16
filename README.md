@@ -37,7 +37,7 @@ Many pastry shops lack a convenient online ordering system with customization op
 ![Main catalog page](main_page.png)
 
 ### Order customization page
-![Order customization page](choose_dessert_page.png)
+![Order customization page](choose_pdessert_page.png)
 
 ### Admin panel – orders list
 ![Admin panel](admin_panel.png)
