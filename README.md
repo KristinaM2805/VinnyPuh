@@ -28,9 +28,8 @@ Many pastry shops lack a convenient online ordering system with customization op
     - Search orders by ID/name/phone/email yet).
     - View order details as JSON.
     - Export cooperation requests to CSV (planned).
-- **Design Reference Upload:** Customers can upload a design image (limitation: stored locally, not sent to server).
+- **Design Reference Upload:** Customers can upload a design image.
 - **Responsive Design:** Partially implemented (mobile view has known issues).
-
 
 ### Requirements
 
