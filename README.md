@@ -31,6 +31,15 @@ Many pastry shops lack a convenient online ordering system with customization op
 - **Design Reference Upload:** Customers can upload a design image.
 - **Responsive Design:** Partially implemented (mobile view has known issues).
 
+## Screenshots
+
+_Main catalog page (main_page.png)_
+
+_Order customization page (choose_dessert_page.png)_
+
+_Admin panel – orders list (admin_panel.png)_
+
+
 ### Requirements
 
 - Windows / macOS / Linux with a local server environment (MAMP, XAMPP, or Docker).
