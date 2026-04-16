@@ -31,15 +31,6 @@ Many pastry shops lack a convenient online ordering system with customization op
 - **Design Reference Upload:** Customers can upload a design image (limitation: stored locally, not sent to server).
 - **Responsive Design:** Partially implemented (mobile view has known issues).
 
-## Screenshots
-
-_Main catalog page (placeholder)_
-
-_Order customization page (placeholder)_
-
-_Admin panel – orders list (placeholder)_
-
-## Installation & Usage
 
 ### Requirements
 
